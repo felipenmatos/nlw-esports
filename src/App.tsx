@@ -28,6 +28,8 @@ const Title = styled.h1`
   font-size: 60px;
   color: white;
   font-weight: bold;
+  font-family: "Inter", sans-serif;
+  font-weight: 900;
 `;
 
 export default App;
